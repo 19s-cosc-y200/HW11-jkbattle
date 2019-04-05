@@ -1,0 +1,32 @@
+<!-- Project Name: Hands-on Exercises 3.1-3.4
+Author: Jemia Battle
+Date Last Modified: April 5,2019 -->
+
+
+1.
+
+<p style="background-color: green; color: white;"></p>
+
+2.
+
+ <head>
+	<style>
+	  body { background-color: #EAEAEA;
+                           color: #000033; }
+	</style>
+   </head>
+
+3.
+
+body{ color: brown;
+      font-size: 1.2em;
+      font-family: arial; }
+
+4.
+
+.new{ font-weight:bold;
+      font-style:italic;}
+
+<p class="new">
+  Bold and Italic css.
+ </p>
