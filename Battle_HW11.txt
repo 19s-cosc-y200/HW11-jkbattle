@@ -7,6 +7,8 @@ Date Last Modified: April 5,2019 -->
 
 <p style="background-color: green; color: white;"></p>
 
+should be in hex
+
 2.
 
  <head>
@@ -22,10 +24,16 @@ body{ color: brown;
       font-size: 1.2em;
       font-family: arial; }
 
+should be in hex
+missing font list
+
 4.
 
 .new{ font-weight:bold;
       font-style:italic;}
+
+missing style tag
+
 
 <p class="new">
   Bold and Italic css.
